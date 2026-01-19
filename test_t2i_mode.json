@@ -1,0 +1,12 @@
+{
+  "model": "qwen3-max-2025-09-23",
+  "chat_type": "t2i",
+  "messages": [
+    {
+      "role": "user",
+      "content": "画一个未来科技城市的概念图，有飞行汽车和高楼大厦"
+    }
+  ],
+  "size": "16:9",
+  "stream": false
+}

@@ -1,0 +1,11 @@
+{
+  "model": "qwen2.5-72b-instruct-image",
+  "messages": [
+    {
+      "role": "user",
+      "content": "画一只可爱的小猫咪，卡通风格，1:1"
+    }
+  ],
+  "size": "1:1",
+  "stream": false
+}

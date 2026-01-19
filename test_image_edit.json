@@ -1,0 +1,21 @@
+{
+  "model": "qwen2.5-72b-instruct-image-edit",
+  "messages": [
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "请把这张图片的背景改成星空，并添加一些闪烁的星星"
+        },
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "https://example.com/sample-image.jpg"
+          }
+        }
+      ]
+    }
+  ],
+  "stream": false
+}

@@ -1,0 +1,11 @@
+{
+  "model": "qwen3-max-2025-09-23-image",
+  "messages": [
+    {
+      "role": "user",
+      "content": "画一个美丽的山水风景，中国水墨画风格，16:9"
+    }
+  ],
+  "size": "16:9",
+  "stream": false
+}
